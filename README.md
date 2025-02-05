@@ -6,4 +6,4 @@ This repo contains the code from this morning. I was originally going to do some
 2. Clone it as normal
 3. Change into the top level of the project
 4. Run `npm install` or `npm ci` to pull in the dependencies
-5. Run `npm run dev` to start the project 
+5. Run `npm run dev` to start the project
